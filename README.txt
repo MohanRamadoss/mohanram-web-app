@@ -48,3 +48,38 @@ git branch -a
 You can use this command to force changes to the server with the local repository (). remote repo code will be replaced with your local repo code.
 
 git push -f origin master
+
+
+
+ 160  git push --set-upstream origin master
+  161  git remote add origin https://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@github.com/MohanRamadoss/mohanram-web-app.git
+  162  git remote rm origin
+  163  git remote add origin https://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@github.com/MohanRamadoss/mohanram-web-app.git
+  164  git push
+  165  git pull
+  166  git remote -v
+  167  ls
+  168  git branch -a
+  169  git pull
+  170  git tag
+  171  git branch -a\
+  172  git branch -a
+  173  git remote rm origin
+  174  git remote add origin https://ramadoss_mohan@bitbucket.org/ramadoss_mohan/mohanbitbucket.git
+  175  git push origin --all
+  176  git pull
+  177  ls
+  178  git status
+  179  cat .git/config
+  180  git add --all
+  181  git commit -m "test clone to bitbucket"
+  182  git push origin master --all
+  183  git push origin master
+  184  git pull
+  185  git add --all
+  186  git commit -m "test clone to bitbucket"
+  187  git push origin master
+  188  git push -f origin master
+  189  history
+root@k8master:~/new-web-app#
+
