@@ -41,3 +41,10 @@ git remote add origin https://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@github.co
 git remote -v
 
 git branch -a
+
+
+*"The tip of your current branch is behind its remote counterpart"* means that there have been changes on the remote branch that you don’t have locally. And Git tells you to import new changes from REMOTE and merge it with your code and then push it to remote.
+
+You can use this command to force changes to the server with the local repository (). remote repo code will be replaced with your local repo code.
+
+git push -f origin master
