@@ -37,3 +37,7 @@ git config --global user.name "Ramadoss Mohan"
 git remote add origin https://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@github.com/MohanRamadoss/mohanram-web-app.git
  
  git push --set-upstream origin master
+
+git remote -v
+
+git branch -a
