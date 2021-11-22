@@ -83,3 +83,23 @@ git push -f origin master
   189  history
 root@k8master:~/new-web-app#
 
+git init
+git config
+git add
+git commit
+git status
+gitk (Graphical representation)
+git log
+git show
+git branch
+git switch
+git clone
+git checkout
+git merge/rebase
+git pull/push/fetch
+git remote
+git cherry-pick
+git reset
+git stash
+git tag
+git diff
